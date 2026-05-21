@@ -15,12 +15,21 @@
 
 ## 🚀 Featured Projects
 
-### 🏥 LabVault – AI Pathology Platform
+### 🏥 Healthscan – AI Pathology Platform
 
 * OCR + NLP extracts structured medical data
 * LLM generates clinical summaries & risk analysis
 * RAG-based chatbot + biomarker tracking
 * Multilingual AI audio summaries
+
+---
+
+###💰 SpendNest – AI Financial Intelligence Platform
+
+* ML-based cash flow forecasting & expense analytics
+* Smart transaction categorization and budgeting insights
+* Interactive real-time financial dashboards
+* AI-powered financial recommendations & trend analysis
 
 ---
 
@@ -32,13 +41,6 @@
 
 ---
 
-### 💸 Bill-Bhandu – AI Expense Manager
-
-* Smart bill splitting using AI
-* OCR-based expense extraction
-* Multi-group expense tracking
-
----
 
 ## 🛠 Tech Stack
 
