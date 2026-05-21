@@ -24,7 +24,7 @@
 
 ---
 
-###💰 SpendNest – AI Financial Intelligence Platform
+### 💰 SpendNest – AI Financial Intelligence Platform
 
 * ML-based cash flow forecasting & expense analytics
 * Smart transaction categorization and budgeting insights
