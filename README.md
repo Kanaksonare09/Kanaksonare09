@@ -33,15 +33,6 @@
 
 ---
 
-### 🧠 OrderIQ – ML E-Commerce Intelligence
-
-* Fake review detection (NLP)
-* Price optimization & delay prediction
-* Customer segmentation
-
----
-
-
 ## 🛠 Tech Stack
 
 ### 💻 Languages
