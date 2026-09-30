@@ -32,6 +32,15 @@
 * AI-powered financial recommendations & trend analysis
 
 ---
+### 🚗 Rally – Real-Time Group Journey Platform
+
+*Real-time group and convoy tracking with live location sharing
+*Route planning and navigation using React-Leaflet, OpenStreetMap & OSRM
+*FastAPI backend with WebSockets for real-time communication
+*PostgreSQL + PostGIS for geospatial data and trip management
+*Group coordination, journey alerts, active trip tracking & trip history
+
+---
 
 ## 🛠 Tech Stack
 
