@@ -1,101 +1,254 @@
-# Hi 👋, I'm Kanak Sonare
+# 👋 Hi, I'm Kanak Sonare
 
-🚀 Software Developer | AI/ML Enthusiast | Building Intelligent Systems
+### `Software Developer` · `AI/ML Engineer` · `Backend & Intelligent Systems`
+
+<p align="left">
+  <a href="https://github.com/Kanaksonare09">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kanak-sonare-b52693298">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kanaksonare@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Kanaksonare09&label=Profile%20Views&style=flat&color=0e75b6" />
+  <img src="https://img.shields.io/github/followers/Kanaksonare09?label=Followers&style=flat&color=0e75b6" />
+</p>
+
+> **I build intelligent software that connects AI, backend engineering, and real-world problem solving.**
 
 ---
 
 ## 🧠 About Me
 
-* 💻 Software Developer focused on **AI-powered applications**
-* 🤖 Skilled in **Machine Learning, NLP, LLMs, RAG**
-* 📊 Interested in **Data Science & scalable systems**
-* 🎯 Goal: Become a top Software Engineer
+I'm a Computer Science student and software developer interested in building **AI-powered products, backend systems, and scalable applications**.
+
+- 🤖 Building with **Machine Learning, NLP, LLMs, RAG, and AI agents**
+- ⚙️ Developing backend systems using **Python, FastAPI, Node.js, REST APIs & WebSockets**
+- 🧩 Interested in **system design, distributed systems, databases, and cloud**
+- 📊 Exploring **data science, intelligent automation, and production ML**
+- 🚀 Currently building projects that combine **AI + software engineering**
+- 🌱 Continuously learning how to take AI prototypes toward **reliable, production-ready systems**
+- 🤝 Open to collaborating on **AI/ML, backend, open-source, and developer-tool projects**
+
+### What I care about
+
+```text
+AI Engineering       → Building useful AI systems, not just demos
+Backend Engineering  → APIs, real-time systems & scalable architectures
+Problem Solving      → Turning complex problems into practical software
+Continuous Learning  → Improving through projects, research & experimentation
+```
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Work
 
-### 🏥 Healthscan – AI Pathology Platform
+## 🏥 HealthScan
+### AI-Powered Pathology Intelligence Platform
 
-* OCR + NLP extracts structured medical data
-* LLM generates clinical summaries & risk analysis
-* RAG-based chatbot + biomarker tracking
-* Multilingual AI audio summaries
+HealthScan transforms unstructured pathology reports into structured insights using **OCR, NLP, LLMs, and Retrieval-Augmented Generation**.
 
----
+**Highlights**
 
-### 💰 SpendNest – AI Financial Intelligence Platform
+- 📄 Extracts structured medical information from uploaded reports
+- 🔬 Processes biomarkers and pathology data
+- 🧠 Generates AI-powered clinical summaries and risk insights
+- 🔎 Provides contextual Q&A through a **RAG-based chatbot**
+- 📊 Enables biomarker tracking across reports
+- 🔊 Generates multilingual AI audio summaries
 
-* ML-based cash flow forecasting & expense analytics
-* Smart transaction categorization and budgeting insights
-* Interactive real-time financial dashboards
-* AI-powered financial recommendations & trend analysis
+**Core Technologies**
 
----
-### 🚗 Rally – Real-Time Group Journey Platform
-
-* Real-time group and convoy tracking with live location sharing
-* Route planning and navigation using React-Leaflet, OpenStreetMap & OSRM
-* FastAPI backend with WebSockets for real-time communication
-* PostgreSQL + PostGIS for geospatial data and trip management
-* Group coordination, journey alerts, active trip tracking & trip history
+`Python` `OCR` `NLP` `LLMs` `RAG` `Transformers` `FastAPI` `MongoDB`
 
 ---
 
-## 🛠 Tech Stack
+## 💰 SpendNest
+### AI Financial Intelligence Platform
 
-### 💻 Languages
+SpendNest combines financial analytics and machine learning to help users understand spending patterns and make better financial decisions.
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+**Highlights**
 
----
+- 📈 ML-based cash-flow forecasting
+- 🏷️ Automated transaction categorization
+- 💳 Expense analysis and budgeting insights
+- 📊 Interactive financial dashboards
+- 🤖 AI-generated financial recommendations
+- 📉 Spending trend analysis
 
-### 🌐 Web Development
+**Core Technologies**
 
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
----
-
-### 🤖 AI / ML
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge\&logo=plotly\&logoColor=black)
+`Python` `Pandas` `NumPy` `Scikit-learn` `React` `MongoDB`
 
 ---
 
-### ⚙️ Tools & Frameworks
+## 🚗 Rally
+### Real-Time Group Journey & Convoy Platform
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode)
+Rally is a real-time coordination platform designed for groups traveling together.
 
----
+**Highlights**
 
-### 🗄 Databases
+- 📍 Live location sharing between group members
+- 🗺️ Route planning and navigation
+- ⚡ Real-time communication using WebSockets
+- 🚨 Journey and location-based alerts
+- 👥 Group and active-trip management
+- 📜 Completed trip history
+- 🌎 Geospatial data using PostGIS
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+**Core Technologies**
 
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Kanaksonare09\&show_icons=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kanaksonare09)
+`Next.js` `TypeScript` `FastAPI` `WebSockets` `Supabase` `PostgreSQL` `PostGIS` `React-Leaflet` `OpenStreetMap` `OSRM`
 
 ---
 
-## 📫 Connect With Me
+# 🧪 Research & AI Work
 
-* 🔗 LinkedIn: https://www.linkedin.com/in/kanak-sonare-b52693298
-* 📧 Email: kanaksonare@gmail.com
+### 🏥 Sanjeevani — Multilingual AI Healthcare Assistant
+
+An AI-driven healthcare assistant designed for **low-resource Indian language environments**, combining multilingual NLP, speech processing, OCR, and LLM-based assistance.
+
+**Technologies explored**
+
+`Rasa` · `Hugging Face Transformers` · `IndicBERT` · `BioBERT` · `Whisper` · `Tesseract OCR` · `IndicTrans` · `Bhashini`
+
+📄 **Research:** *Sanjeevani: An AI-Driven Multilingual LLM-Based Healthcare Assistant for Low-Resource Indian Settings*
+
+---
+
+# 🛠️ Technical Arsenal
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts" />
+</p>
+
+### 🌐 Web & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,fastapi" />
+</p>
+
+`REST APIs` · `WebSockets` · `Microservices` · `Real-Time Systems`
+
+### 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+`Scikit-learn` · `Pandas` · `NumPy` · `Matplotlib`  
+`Hugging Face` · `Transformers` · `LangChain`  
+`NLP` · `LLMs` · `RAG` · `AI Agents` · `Prompt Engineering`
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+</p>
+
+`PostgreSQL` · `PostGIS` · `MongoDB` · `MySQL` · `Redis` · `Vector Databases`
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,github,linux" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img 
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Kanaksonare09&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+  />
+  <img 
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanaksonare09&layout=compact&theme=github_dark&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img 
+    width="70%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Kanaksonare09&theme=github-dark-blue&hide_border=true"
+  />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Kanaksonare09&theme=github-compact&hide_border=true"
+  />
+</p>
+
+---
+
+# 🌱 Currently Exploring
+
+```text
+Generative AI       • RAG Systems
+AI Agents           • LLM Applications
+Machine Learning    • NLP
+Backend Engineering • System Design
+Cloud & DevOps      • Distributed Systems
+```
+
+I'm particularly interested in the space where:
+
+**AI × Backend Engineering × Real-World Products**
+
+---
+
+# 🏆 Highlights
+
+| Area | Focus |
+|---|---|
+| 🤖 AI | ML · NLP · LLMs · RAG · AI Agents |
+| ⚙️ Backend | FastAPI · Node.js · REST · WebSockets |
+| 🗄️ Data | PostgreSQL · MongoDB · PostGIS · Redis |
+| 🌐 Systems | Real-Time Applications · APIs · Scalable Architecture |
+| ☁️ Cloud | Docker · Kubernetes · AWS · GCP |
+| 🔬 Research | Multilingual AI · Healthcare AI · Low-Resource NLP |
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in meeting people who are **building, researching, and solving interesting problems with technology**.
+
+Whether it's an AI project, backend architecture, open-source contribution, research idea, or something completely new — feel free to reach out.
+
+<p align="left">
+  <a href="mailto:kanaksonare@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kanak-sonare-b52693298">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+
+### 💻 Build → Experiment → Learn → Ship 🚀
+
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile!</i>
+</p>
