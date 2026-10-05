@@ -140,22 +140,6 @@ Rally is a real-time platform for coordinating group journeys with **live locati
 
 ---
 
-# 🔬 Research & AI
-
-## 🏥 Sanjeevani — Multilingual AI Healthcare Assistant
-
-An AI-driven healthcare assistant designed for **low-resource Indian language environments**, combining multilingual NLP, speech processing, OCR and LLM-based assistance.
-
-**Technologies**
-
-`Rasa` · `Hugging Face Transformers` · `IndicBERT` · `BioBERT`  
-`Whisper` · `Tesseract OCR` · `IndicTrans` · `Bhashini` · `LLMs`
-
-📄 **Research:**  
-*Sanjeevani: An AI-Driven Multilingual LLM-Based Healthcare Assistant for Low-Resource Indian Settings*
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
