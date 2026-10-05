@@ -139,7 +139,13 @@ Rally is a real-time platform for coordinating group journeys with **live locati
 `PostgreSQL` `PostGIS` `React-Leaflet` `OpenStreetMap` `OSRM`
 
 ---
+# 🏆 Achievements
 
+### 🥇 Best Team Recognition — Civil War 2.0 Hackathon
+
+Recognized as **Best Team** at the **Civil War 2.0 Hackathon** for outstanding teamwork, problem-solving, technical execution, and collaboration under a competitive hackathon environment.
+
+---
 # 📊 GitHub Analytics
 
 <p align="center">
