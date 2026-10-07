@@ -67,12 +67,6 @@ I'm a Computer Science student and software developer focused on building **AI-p
 
 `PostgreSQL` · `PostGIS` · `MongoDB` · `MySQL` · `Redis` · `Vector Databases`
 
-### ☁️ Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,github,linux" />
-</p>
-
 ---
 
 # 🚀 Featured Projects
