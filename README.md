@@ -96,24 +96,23 @@ HealthScan transforms unstructured pathology reports into structured, understand
 
 ---
 
-## 💰 SpendNest
-### AI Financial Intelligence Platform
+## 🤖 QueryAI 
+## Offline Text-to-SQL Intelligence Assistant
 
-SpendNest combines machine learning and financial analytics to help users understand spending behavior and make better financial decisions.
+Ask questions in plain English. Get SQL queries, visualizations, and actionable insights — powered by local AI.
 
 **Highlights**
 
-- 📈 ML-based cash-flow forecasting
-- 🏷️ Intelligent transaction categorization
-- 💳 Automated expense analytics
-- 🎯 Budgeting and financial insights
-- 📊 Interactive financial dashboards
-- 🤖 AI-powered financial recommendations
-- 📉 Spending trend analysis
+- 🧠 Natural Language → SQL using local LLMs
+- 🔒 Privacy-first & offline — your database stays local
+- 📊 Automatically generates charts and data insights
+- 🔍 SQL validation & query explanation for learning and debugging
+- 🗄️ Supports working with real database schemas
+- ⚡ Built with Python, FastAPI, SQL, Pydantic & local LLMs
 
 **Tech Stack**
 
-`Python` `Pandas` `NumPy` `Scikit-learn` `React` `MongoDB`
+`Python` `FastAPI` `SQL` `PostgreSQL/MySQL` `LLMs` `Pydantic` `Data Visualization` 
 
 ---
 
